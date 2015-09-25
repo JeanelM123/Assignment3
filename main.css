@@ -1,40 +1,16 @@
-/* Element Reset */
-ul {
-  list-style: none;
-  padding: 0;
+body{
+	font-family: font-family: 'Bitter', serif;
 }
-img {
-  max-width: 100%;
+.myform{
+	border: 5px solid black;
 }
 
-/* Main Object */
-.octocat {
-  width: 300px;
-  display: inline-block;
-  margin-right: 10px;
-}
-.octocat img {
-  border: 1px solid grey;
+h1{
+	font-family: font-family: 'Raleway', sans-serif;
 }
 
-/* Footer Area */
-
-
-/*  Authors Area */
-.authors img {
-  width: 25px;
-}ul{
-	list-style: none;
-}
-img{
-	max-width: 100 %
-
-}
-.Assignment3{
-	width: 300px
-	display:inline-block;
-	margin-right: 10px
-}
-.Assignment3{
-	border:1px sold grey;
+.complaintArea {
+	border-style: 5px solid red;
+	border-color: green;	
+	width: 
 }
