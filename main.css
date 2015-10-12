@@ -1,0 +1,23 @@
+.octocat {
+	display: inline-block;
+	list-style-type: none;
+	background-color: white;
+	color: red;
+
+
+}
+
+.octocat img {
+	width: 300px;
+	border: 2px solid #DDDDDD;
+	border-radius: 10px;
+
+}
+.image-footer{
+	border-bottom: 2px solid #DDDDDD;
+}
+
+.authors img{
+	width:40px;
+	border: none;
+}
